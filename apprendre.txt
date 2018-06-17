@@ -1,0 +1,13 @@
+sich einarbeiten durch:
+
+  ---SQL
+  --- Python
+  --- report erstellen in icCube: iccube lokal installieren.
+
+
+
+#####################################
+
+1-install postgress database server.
+2-create database and execute sql queries
+3-execute queries throught python code

@@ -1,0 +1,13 @@
+Online Kurs: https://www.youtube.com/watch?v=c3fnHA6yLeY&list=PLSpwIzBc8vTAuVNhCysoJfo8G5NR0veZ5
+Und zugehörige Folien: https://web.stanford.edu/class/cs124/lec/naivebayes.pdfOnline Kurs: https://www.youtube.com/watch?v=c3fnHA6yLeY&list=PLSpwIzBc8vTAuVNhCysoJfo8G5NR0veZ5
+Und zugehörige Folien: https://web.stanford.edu/class/cs124/lec/naivebayes.pdf
+
+
+[18:28, 20.6.2017] +49 176 62719507: https://docs.google.com/file/d/0B78A_rsP6RDSVjBTa1ZUSXBGYzA/edit                        
+[18:29, 20.6.2017] +49 176 62719507: http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
+
+
+
+
+
+dtw distance http://www.phon.ox.ac.uk/jcoleman/old_SLP/Lecture_5/DTW_explanation.html
